@@ -25,7 +25,7 @@ class MySelf:
                 "University": "🏛 University of Bologna"
             }
         }
-        self.interests = ["📊 Machine Learning", "🧠 Agentic Systems"]
+        self.interests = ["📊 Machine Learning", "👁️ Computer Vision", "🧠 Agentic Systems"]
         self.hobbies = ["📸 Photography", "🎸 Guitar", "🏋🏻‍♀️ Functional Training", "🗺️ Travelling"]
 ```
 
